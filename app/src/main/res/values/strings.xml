@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">מצב מפתחים</string>
+    <string name="title">מצב מפתחים</string>
+    <string name="explanation">אפליקציה פשוטה לטלפוני מקשים של Android 4.4. הכפתורים פותחים את מסך אפשרויות המפתחים, ומשם ניתן להפעיל ניפוי באגים ב‑USB.</string>
+    <string name="developer_button">פתח אפשרויות למפתחים</string>
+    <string name="debug_button">הגדר ניפוי באגים ב‑USB</string>
+    <string name="refresh">רענן מצב</string>
+    <string name="debug_enabled">מצב ניפוי באגים ב‑USB: פעיל</string>
+    <string name="debug_disabled">מצב ניפוי באגים ב‑USB: לא פעיל או לא ניתן לקריאה</string>
+</resources>
